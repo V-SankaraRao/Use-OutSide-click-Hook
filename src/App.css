@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;align-self: center;
+}
+
+.area{
+  background-color: aqua;
+  width: 600px;
+}
+button{
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  margin-top: 20px;
+  cursor: pointer;
+}
